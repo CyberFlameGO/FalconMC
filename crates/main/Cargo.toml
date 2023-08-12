@@ -28,5 +28,5 @@ fastnbt = "2.3.2"
 ahash = "0.8.0"
 uuid = "1.1.2"
 
-tokio = { version = "1.20.1", features = [ "full" ] }
+tokio = { version = "1.20.4", features = [ "full" ] }
 bytes = { version = "1.2.1", features = [ "std" ] }
